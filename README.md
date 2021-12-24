@@ -1,4 +1,4 @@
-# GeekSWB
+# MaMa
 使用腾讯云部署过程
 操作系统：Ubuntu Server 18.04.1 LTS 64bit
 外网地址：150.158.175.138
